@@ -16,4 +16,6 @@ header
 section{
 
     background-image: linear-gradient(#51025a, #E85CDA);
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
