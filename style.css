@@ -1,12 +1,11 @@
 body
 {
     background-color: blue;
-    color: white
+    color: white;
 }
 
 header
-
 {
-background-color: gray;
-
+    background-color: gray;
+    padding: 20px;
 }
